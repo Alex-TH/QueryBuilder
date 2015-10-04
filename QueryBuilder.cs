@@ -109,6 +109,7 @@ namespace QueryBuilder
             this.nombre = nombre;
         }
 
+
         public override string ToString()
         {
             return nombre;
